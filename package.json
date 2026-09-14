@@ -1,0 +1,16 @@
+{
+  "name": "trustwallet-telegram-approval-final",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram monitor + Trust Wallet send deep links",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
